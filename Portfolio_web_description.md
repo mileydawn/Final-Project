@@ -2,37 +2,26 @@ Final Project
 
 Portfolio web :
 
-1/HOME PAGE: (will have the most animation, words are automaticly run)
+Note (site logo and gumroad icon currently fail to export to pdf)
 
-Eg: http://www.adamhartwig.co.uk/
-    http://www.insymbiosis.com/
+PAGES:
 
-photo + Logo name + tagline: HUONG DANG - Web designer/ Front-End Web developer
+1/HOME PAGE: contain images that movable when mouse moves around like this: http://www.jumpingpages.com/). When user scroll down, new image shows up.
 
-my thoughts, my passion, my specialty: update later
+2/ABOUT PAGE: (still working on the design)
 
-2/SKILLS & EDUCATION PAGE:
+3/TUTORIALS: contain thumnail of videos (I'm still working on the design). 
 
-Illustrator, Ps, Sketch, Html, CSS, Javascript
+4/WORKS PAGE: (contains 3 sub menus: concept design / product design / illustration)
 
-B.C of Art: Industrial Design ..
-A.S of Art: Business Administration ..
+There are two views options: 
+1-full screen
+2-gallery view (I want to create a gallery look similar to pinterest where images apepar in different sizes)
 
 
-3/WORKS PAGE:
+5/AWARDS (still working on the design)
 
-gallery of personal work.
-when click in each thumnail. There is discription of what I provided. and link to launch project.
-
-tesimonial next to each project.
-
-4/CONTACT PAGE:
-
-contact form, google map next to it
-
-link to github, linkined
-
-5/DOWNLOAD RESUME
+6/CONTACT (still working on the design)
 
 
 
